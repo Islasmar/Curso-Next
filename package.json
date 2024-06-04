@@ -1,5 +1,5 @@
 {
-  "name": "first-steps",
+  "name": "c",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -22,5 +22,13 @@
     "tailwindcss": "^3.4.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.3"
-  }
+  },
+  "description": "Proyecto ralizado en Next",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "Islasmar"
+  },
+  "author": "Mariano Fajardo Islas",
+  "license": "ISC"
 }
